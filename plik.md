@@ -2,6 +2,7 @@
 [^1]: Bardzo lubię piosenki Kukiego
 
 # Piosenki Kukiego [^1] {#1}
+
 |tytuł|długość|moja ocena|
 |:---:|:-----:|:--------:|
 |Zgon przy porodzie|3:24|9/10|
@@ -10,6 +11,7 @@
 
 
 # Kod {#2}
+
 ```py
 x=1
 while x<=5:
@@ -18,12 +20,14 @@ while x<=5:
 ```
 
 # Lista zadań {#3}
+
 - [x] wyciągać damy spod opieki mamy
 - [x] i małolaty spod opieki taty
 - [ ] stać na bramce
 - [ ] nikogo się nie bać
 
 # Emotki {#4}
+
 :japanese_ogre:
 :japanese_goblin:
 
