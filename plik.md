@@ -1,7 +1,7 @@
 
-[^1]: Bardzo lubię piosenki Kukiego
+[^1]: Jestem nieustraszona
 
-# Piosenki Kukiego [^1] {#1}
+# Piosenki Kukiego
 
 |tytuł|długość|moja ocena|
 |:---:|:-----:|:--------:|
@@ -10,7 +10,7 @@
 |Ciepłe dranie|3:10|10/10:heart:|
 
 
-# Kod {#2}
+# Kod
 
 ```py
 x=1
@@ -19,19 +19,22 @@ while x<=5:
 	x=x+1
 ```
 
-# Lista zadań {#3}
+# Lista zadan
 
 - [x] wyciągać damy spod opieki mamy
 - [x] i małolaty spod opieki taty
 - [ ] stać na bramce
-- [ ] nikogo się nie bać
+- [ ] nikogo się nie bać[^1]
 
 # Emotki {#4}
 
 :japanese_ogre:
 :japanese_goblin:
 
-[link do tabelki z piosenkami Kukiego](#1)
-[link do kodu](#2)
-[link do listy zadań](#3)
-[link do emotek](#4)
+[link do tabelki z piosenkami Kukiego](#piosenki-kukiego)
+
+[link do kodu](#kod)
+
+[link do listy zadań](#lista-zadan)
+
+[link do emotek](#emotki)
