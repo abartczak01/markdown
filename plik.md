@@ -1,12 +1,4 @@
 
-[link do tabelki z piosenkami Kukiego](#1)
-
-[link do Kodu](#2)
-
-[link do Listy zadań](#3)
-
-[link fo Emotek](#4)
-
 [^1]: Bardzo lubię piosenki Kukiego
 
 # Piosenki Kukiego [^1] {#1}
@@ -34,3 +26,8 @@ while x<=5:
 # Emotki {#4}
 :japanese_ogre:
 :japanese_goblin:
+
+[link do tabelki z piosenkami Kukiego](#1)
+[link do kodu](#2)
+[link do listy zadań](#3)
+[link do emotek](#4)
