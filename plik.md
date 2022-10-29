@@ -1,11 +1,15 @@
 
 [link do tabelki z piosenkami Kukiego](#01)
+
 [link do Kodu](#02)
+
 [link do Listy zadań](#03)
+
 [link fo Emotek](#04)
+
 [^1]: Bardzo lubię piosenki Kukiego
 
-# Piosenki Kukiego[^1} {#01}
+# Piosenki Kukiego [^1} {#01}
 |tytuł|długość|moja ocena|
 |:---:|:-----:|:--------:|
 |Zgon przy porodzie|3:24|9/10|
